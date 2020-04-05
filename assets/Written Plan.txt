@@ -1,0 +1,8 @@
+
+For this assignment, We decided to make a traditional bio page to explain who we are and what we are doing on 
+the project. We show the difference between our tasks and who is doing what on the project. We divided up the 
+work to take advantage of our strong suits. Greg does the development and Gerrit does the design. In order to 
+create the final bio page we used the same colour scheme as our final website. Each of the design choices were 
+made with the final website in mind, the logo placement as well as the nav. The border matches the final website 
+and encompasses everything in a uniform way. It also allows for us to add the borders on all of the photos of 
+the site. The fonts also match the ones on the site for uniformity.
