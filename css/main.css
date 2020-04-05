@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Socument */
+.hidden{
+	display: none;
+}
+
+#siteContainer {   /* Site Dimensions */
+	margin: 0 auto;
+	width: 960px;
+	border: 6px solid #004310;
+	margin-top: 20px;
+}
+
+#siteContainer img {
+	display: flex;
+	justify-content: center;
+}
+
+@font-face {
+	font-family: 'Work Sans Regular';
+	src: url('../fonts/Work_Sans/static/WorkSans-Regular') format('truetype')
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1 {
+	font-family: "Work Sans Regular";
+	font-size: 60px;
+	display: flex;
+	justify-content: center;
+	margin: 20px 0px 10px 0px;
+}
+
+h2 {
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	margin: 10px 0px 40px 0px;
+}
+
+p {
+	font-size: 18px;
+	display: flex;
+	justify-content: center;
+	margin: 0px 0px 0px 0px;
+}
+
+body {
+	background-image: url("../images/paper_background.jpg");
+}
+
+.profilePics {
+	display: flex;
+	justify-content: center;
+	margin: 60px 0px 20px 0px;
+}
+
+.profilePics img {
+	margin: 0px 50px 0px 50px;
+}
+
+.buttons {
+	display: flex;
+	justify-content: center;
+	margin: 0px 50px 0px 50px;
+}
+.buttons button {
+	margin: 0px 120px 0px 130px;
+}
+
+.lightbox-close {
+	color: white;
+	float: right;
+	padding:15px 30px 0px 0px;
+	display: block;
+	font-size: 50px;
+	cursor: pointer;
+}
+
+.footer {
+	display: flex;
+	justify-content: center;
+	margin: 60px 0px 20px 0px;
+}
+
+.footer img {
+	width: 100px;
+	height: 100px;
+}
